@@ -1,11 +1,18 @@
 {
+<<<<<<< HEAD
   "name": "woofgang",
   "version": "1.0.0",
   "description": "nil",
+=======
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "",
+>>>>>>> c1daa857bae413abd264c2472516e52d2ad9d689
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nickylimjj/woofgang.git"
@@ -16,11 +23,19 @@
     "url": "https://github.com/nickylimjj/woofgang/issues"
   },
   "homepage": "https://github.com/nickylimjj/woofgang#readme",
+=======
+  "author": "",
+  "license": "ISC",
+>>>>>>> c1daa857bae413abd264c2472516e52d2ad9d689
   "dependencies": {
     "body-parser": "^1.16.0",
     "express": "^4.14.0",
     "lodash": "^4.17.4",
     "method-override": "^2.3.7",
+<<<<<<< HEAD
+=======
+    "mongodb": "^2.2.21",
+>>>>>>> c1daa857bae413abd264c2472516e52d2ad9d689
     "mongoose": "^4.7.7",
     "node-restful": "^0.2.5"
   }
