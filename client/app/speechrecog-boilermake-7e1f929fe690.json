@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "speechrecog-boilermake",
+  "private_key_id": "7e1f929fe6903c4ea94f7ab2124293501d306432",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLUuMCNsGK2GSY\n8X5CVOTb+HXK+MMhukuJlp54HJGiAtDJEf2dEYqBdoUzejE22sN1bZD2O0K+ZQ29\nDfwsTH4CoSHRCwPDxkUyxFFRGgSZUMcpOE2XQeqxsU/7pgunMMIOtQGrm4Foo9zK\nprKgBhwEGZ7Hc9hQ0/GJwP4NhgQrX1s97BIZx7fsuFb0x8mUAVtm86f+vhKcCWcz\nbYmDtHWVSi6Z9hqDowV0z/r8qIbm4dBJIs94ZPY6fpa0f8wdUesR5bQxFZ/lMOF1\nBAsa4BJNm/zunnSAJ2KHnGuuo4G68KX3LB8UGmqlUqRc1EhECYufe8PzRJsc0FJT\nnU5xBtQPAgMBAAECggEAfVAwqYSl9LU6CymL78Xy58BSmS6I1ZjERaCXOuAgwgGK\nPOLhtJTDENfDcN62xmA+Z3mIBrqvgDk4JnUgHw1l/Kji9rwbLeZdb9SfaaTngLbQ\niQ8ygy8VPz9RVIAaXokmkXnt9Z56O8wCoMPtA8PAMKa5vaQghnCaRZS1ABDBMRkS\ngSO2zp0VwD6IiuKKlZdMQDkqpDYMMHlhoKIu9lr8/FzEG6z+tIEdPkcyic5648Fu\nm4ruFHip2F/Av+zxLZSwcvZ+j6JDe1xSdiONPhJkZOmFh7OD2HioGjATqjvRofzQ\nsZgYizX0gBjbhDBOP8Eilhqm4vS/wCHZFRl6kUIrQQKBgQDz2Sn4CXRZ2rmbT+KZ\nrPF0lbyiH8uZ+WQbh+2/5/6mpBhz6ZxeEeqETDfNFlwgvQMZZdEqmnYJFC3QR+oy\nvPFx3ajvOlB97rPPn1WqdhDwJ+wfr7DgkXpYtc8C2LIRPi6LcrLDsQ8HPj6UUDoD\nE9VhHq4Sm68bNoshgARD2Y+GcwKBgQDVdL2w5AmEHVNNAD4i6/foSmlnVsEVeCwA\nHAkyDaCx17rty3g+ifU8W7nKT/UO/aElVqij6EjiZN9/SivtRi1GmsQJHuvzlaWY\nYpkClEg/W0saB/WRBFkr+bRgM5hUXGtiX7WUJ0ZoljLEEGGRmPXWSkOyrPHqCnZQ\neNKxYzY49QKBgGm0FI5Rwt8EgnrB6U+GeXB5TDjXIZIQWoXYqYYL0gZ4kaUFemQI\nziklRPchHzSN2p8S1NXr+Qi8d5OW6P2vi9Y5KPbyx1ufstBomGD5JySDmcauiTT/\nuxJjVWY9ewsgclq+kKFlykbwg34VPOCCo3ejLgAg/ooEXdFaxf6He8DjAoGAVssZ\nNowCso2aCX1HxrtcGj/ni/VinXA3s/OyaX/RD39AquBJDGTcKqbBbNoGMwo+NAiA\nmeUhfay2k/N82QXn8wWLIIpKNslqhAPTY5EXr2tXpkYGO+kguRjXlyZjkiniICX6\nlztBDdXE3qQqiCFCFNgtnsFjvF50rVPzl91XduECgYEA3CO4jaut+AbFv21giSiD\nxgPa87LkglPRoCLdpBXoeN7ptRbdY7RQgRha5HOPprby2te7VaZtqbnnlEZeFCRw\n1bKQth+5sgtS/QQTFpvj6H3MeEBRW/bZNfVtF6vxbXOjeuWAa0Ngvz2BYwFCe0Dh\n7TFBAlx7ET3vwSnYbeOiG/I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "woofgang@speechrecog-boilermake.iam.gserviceaccount.com",
+  "client_id": "100503724768295830023",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/woofgang%40speechrecog-boilermake.iam.gserviceaccount.com"
+}

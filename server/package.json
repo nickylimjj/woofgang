@@ -1,0 +1,27 @@
+{
+  "name": "woofgang",
+  "version": "1.0.0",
+  "description": "nil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickylimjj/woofgang.git"
+  },
+  "author": "nicky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickylimjj/woofgang/issues"
+  },
+  "homepage": "https://github.com/nickylimjj/woofgang#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "lodash": "^4.17.4",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.7.7",
+    "node-restful": "^0.2.5"
+  }
+}

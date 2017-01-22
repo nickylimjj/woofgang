@@ -1,0 +1,11 @@
+<form role="form">
+<div class="form-group">
+<label for="title" class="control-label">Title</label>
+<input type="text" ng-model="transaction.description" class="form-control" id="title" placeholder="Enter purchase here">
+</div>
+
+<label for="title" class="control-label">Price</label>
+<input type="text" ng-model="transaction.amount" class="form-control" id="title" placeholder="Enter price here">
+</div>
+<input type="submit" class="btn btn-primary" ng-click="saveTransaction()" value="Save">
+</form>

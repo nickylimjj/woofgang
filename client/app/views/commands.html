@@ -1,0 +1,23 @@
+<table class="table table-striped">
+    <thead>
+        <th>Name</th>
+        <th>Description</th>
+    </thead>
+    <tbody>
+        <tr ng-controller="CommandsCtrl" ng-repeat="command in commands.commands">
+            <td>{{ command.name }}</td>
+            <td>{{ command.desc }}</td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- speech recog button -->
+<a class="btn btn-primary" ng-click="execRecog()"><span class="glyphicon glypicon-plus"></span> Speak now</a>
+
+<!-- recorded transcript -->
+<div class="row">
+<div class="col-md-6 col-md-offset-3">
+    Transcript: {{ transcript }}        
+</div>
+</div>
+

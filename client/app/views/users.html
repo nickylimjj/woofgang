@@ -1,0 +1,18 @@
+<a class="btn btn-primary" href="/#!/create/user"><span class="glyphicon glypicon-plus"></span> Create User</a>
+<table class="table table-striped">
+    <thead>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Age</th>
+        <th>View?</th>
+    </thead>
+    <!-- scope refers to controller name-->
+    <tbody>
+        <tr ng-controller="UsersCtrl" ng-repeat="user in users.users">
+            <td>{{ user.firstname }}</td>
+            <td>{{ user.lastname }}</td>
+            <td>{{ user.age }}</td>
+            <td><a ng-href="/#!/user/{{user._id}}">view</a></td>
+        </tr>
+    </tbody>
+</table>

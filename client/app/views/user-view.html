@@ -1,0 +1,21 @@
+<ng-include src="'views/users-nav.html'"></ng-include>
+<h3>{{ user.firstname }} {{ user.lastname }}</h3>
+<p>{{ user.age }}</p>
+
+<a class="btn btn-primary" href="/#!/create/transaction"><span class="glyphicon glypicon-plus"></span> Add Transaction</a>
+
+<table class="table table-striped">
+    <thead>
+        <th>Name</th>
+        <th>Cost</th>
+        <th>date</th>
+    </thead>
+    <!-- scope refers to controller name-->
+    <tbody>
+        <tr ng-controller="UserViewCtrl" ng-repeat="transaction in userView.transactions">
+            <td>{{ transaction.firstname }}</td>
+            <td>{{ transaction.cost }}</td>
+            <td>{{ transaction.date }}</td>
+        </tr>
+    </tbody>
+</table>
